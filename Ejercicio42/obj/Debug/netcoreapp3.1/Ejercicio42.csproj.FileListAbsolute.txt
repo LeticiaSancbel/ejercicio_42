@@ -1,0 +1,9 @@
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\bin\Debug\netcoreapp3.1\Ejercicio42.deps.json
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\bin\Debug\netcoreapp3.1\Ejercicio42.dll
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\bin\Debug\netcoreapp3.1\Ejercicio42.pdb
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\obj\Debug\netcoreapp3.1\Ejercicio42.csproj.AssemblyReference.cache
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\obj\Debug\netcoreapp3.1\Ejercicio42.AssemblyInfoInputs.cache
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\obj\Debug\netcoreapp3.1\Ejercicio42.AssemblyInfo.cs
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\obj\Debug\netcoreapp3.1\Ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\obj\Debug\netcoreapp3.1\Ejercicio42.dll
+C:\Users\letic\Desktop\Ejercicio42\Ejercicio42\obj\Debug\netcoreapp3.1\Ejercicio42.pdb
